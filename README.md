@@ -8,18 +8,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![MCP](https://img.shields.io/badge/MCP-compatible-orange)
 
-ozon-mcp is a knowledge-rich MCP server that turns the entire Ozon
-seller toolkit into 15 high-leverage tools. AI agents (Claude, Cursor,
-Cline, Continue, Goose, Zed, …) can search the API in Russian or
-English, drill into any of 466 methods with a fully-resolved JSON
-Schema, and execute calls with built-in safety guards. Subscription-
-aware, automatic pagination over all 4 cursor styles, retry/back-off
-on 429s, and 13 ready-to-use analytical workflows.
-
-**Key facts:** 466 indexed methods (420 Seller + 46 Performance),
-55 sections, 5 subscription tiers modelled, 38 paginated endpoints
-auto-walked, 43 destructive methods double-gated, 13 curated
-workflows for typical seller scenarios.
+ozon-mcp是一个知识丰富的MCP服务器，它将整个Ozon卖家工具集转化为15个高杠杆工具。AI代理(如Claude、Cursor、Cline、Continue、Goose、Zed等)可以用俄语或英语搜索API，深入探索466种方法，并借助完全解析的JSONSchema执行调用，同时内置安全保护机制。该服务支持订阅感知、自动分页，兼容所有4种光标样式，在遇到429错误时自动重试与退避，并提供13个即开即用的分析工作流。
+**关键事实:**466个索引方法(420个卖家+46个性能)，55个部分，5个订阅层级模型，38个分页端点自动遍历，43个破坏性方法双重门控，13个针对典型卖家场景的
+精选工作流。
 
 ---
 
